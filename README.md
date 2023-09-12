@@ -5,6 +5,6 @@ Learning Logs from DSF Program
 
 Please go to the [Wiki section](https://github.com/chalkeam/DSF_2023_Fall/wiki) for documentation
 
-[Goto Google](https://www.google.com)
+[Go to Google](https://www.google.com)
 
 ###
